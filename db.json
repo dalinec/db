@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "12",
+      "title": "Buy groceries",
+      "description": "Buy milk, cola,bread",
+      "due_date": "08/10/2022",
+      "time": "10:15 PM",
+      "completed": false
+    },
+    {
+      "id": "23",
+      "title": "Wash all dirty clothes",
+      "description": "Remove the pink shirt",
+      "due_date": "26/10/2022",
+      "time": "08:15 AM",
+      "completed": true
+    }
+  ]
+}
